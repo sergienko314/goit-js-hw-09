@@ -54,3 +54,10 @@ button:disabled {
   font-weight: 600;
 
 }
+
+.timer-container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  
+}
